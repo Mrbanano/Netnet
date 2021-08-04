@@ -1,0 +1,26 @@
+[
+    {
+        "slug":"Matrix",
+        "title": "Matrix",
+        "percentage": "90%",
+        "poster": "",
+        "year": 2000,
+        "classification": "A",
+        "duration": 230,
+        "quality": "HD",
+        "description": "Neo, Morpheus, Trinity y el resto de la tripulación continúan en la lucha contra las máquinas que han esclavizado a la raza humana. Ahora más humanos han sido despertados e intentan vivir en el mundo real. A medida que aumentan en número, la batalla se acerca a Sion, la última ciudad real en el mundo y centro de la resistencia humana. Y tiene poco tiempo, muy poco tiempo... ",
+        "Elenco": [
+            {
+                "nameActor": "Actor 1"
+            }
+        ],
+        "Ranking": {
+            "Top": true,
+            "TopRanking": 1
+        },
+        "New":{
+            "episode": true,
+            "isNew": true
+        }
+    }
+]
